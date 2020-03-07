@@ -1,0 +1,19 @@
+{
+  "name": "chat-io",
+  "version": "1.0.0",
+  "description": "Using Socket Io",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js",
+    "dev": "nodemon App.js"
+  },
+  "author": "johan7perez@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "socket.io": "2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
+}
